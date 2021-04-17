@@ -82,5 +82,5 @@ api.payment();
 // api.getAllPosts();
 
 // this is the server
-const connection = new server(3001, app);
+const connection = new server(3000, app);
 connection.core();
